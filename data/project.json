@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "title": "Student Portfolio Website",
+      "description": "A personal website that shows my skills, background, and projects.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "role": "Designer and Developer",
+      "screenshot": "images/portfolio-screenshot.png",
+      "github": "https://github.com/yourusername/student-portfolio",
+      "demo": ""
+    },
+    {
+      "title": "Student Grade Calculator",
+      "description": "A program that calculates student grades based on scores.",
+      "technologies": [
+        "Java",
+        "HTML",
+        "CSS"
+      ],
+      "role": "Programmer",
+      "screenshot": "images/grade-calculator.png",
+      "github": "https://github.com/yourusername/grade-calculator",
+      "demo": ""
+    },
+    {
+      "title": "Bookstore Database",
+      "description": "A database for managing books, customers, staff, and orders.",
+      "technologies": [
+        "SQL"
+      ],
+      "role": "Database Designer",
+      "screenshot": "images/bookstore-database.png",
+      "github": "https://github.com/yourusername/bookstore-database",
+      "demo": ""
+    }
+  ]
+}
